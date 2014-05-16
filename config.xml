@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+        xmlns:gap="http://phonegap.com/ns/1.0"
+        id= "com.findby"
+        version="1.0.0">
+ 
+  <name>findby</name>
+ 
+  <description>
+    findby, A Geolocation Classified Ads for products and services around the world
+  </description>
+ 
+  <license>
+    Copyright (c) 2013-2014 findby.
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+    EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+    OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+    NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT 
+    HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, 
+    WHETHER IN AN ACTION OF CONTRACT, INSULT OR OTHERWISE, ARISING 
+    FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR 
+    OTHER DEALINGS IN THE SOFTWARE.
+  </license>
+
+  <gap:platform name="android" />
+  <preference name="phonegap-version" value="2.9.0" />
+  <preference name="fullscreen" value="true" />
+  <preference name="disable-cursor" value="true" />
+  <icon src="img/icon-90x90.png" gap:platform="android" />
+  <gap:splash src="img/icon-128x128.png" gap:platform="android" />
+  <access origin="http://findby.co/" subdomains="true" />
+
+</widget>
