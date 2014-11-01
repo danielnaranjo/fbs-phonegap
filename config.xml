@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets"
         xmlns:gap="http://phonegap.com/ns/1.0"
-        id= "com.findby"
-        version="1.0.0">
+        id= "com.loultimoenlaweb.findby"
+        version="1.0.1">
  
   <name>findby</name>
  
   <description>
-    findby, A Geolocation Classified Ads for products and services around the world
+    A m-Commerce solution for products and services around the world.
   </description>
+
+  <author href="https://www.loultimoenlaweb.com" email="aplicaciones@loultimoenlaweb.com">
+    Daniel Naranjo
+  </author>
  
   <license>
     Copyright (c) 2013-2014 findby.
