@@ -2,6 +2,7 @@
 <widget xmlns="http://www.w3.org/ns/widgets"
         xmlns:gap="http://phonegap.com/ns/1.0"
         id= "com.loultimoenlaweb.findby"
+        versionCode = "10" 
         version="1.0.1">
  
   <name>findby</name>
@@ -27,7 +28,7 @@
   </license>
 
   <gap:platform name="android" />
-  <preference name="phonegap-version" value="3.3.0" />
+  <preference name="phonegap-version" value="3.5.0" />
   <preference name="fullscreen" value="true" />
   <preference name="disable-cursor" value="true" />
   <icon src="img/icon-90x90.png" gap:platform="android" />
